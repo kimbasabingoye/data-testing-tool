@@ -1,2 +1,2 @@
-# visual-data-uat-checker
-Visual Data UAT Checker
+# Visual Data testing tool
+Visual Data testing tool
