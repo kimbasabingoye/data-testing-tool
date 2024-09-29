@@ -1,2 +1,2 @@
-# Visual Data testing tool
-Visual Data testing tool
+# Visual Data testing tools
+Visual Data testing tools
